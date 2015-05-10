@@ -1,0 +1,11 @@
+.justify ul {
+	text-align: left;
+}
+
+.spacer {
+	margin-top: 2em !important;
+}
+
+#slide-2 .justify ul {
+	list-style-type: none;
+}
