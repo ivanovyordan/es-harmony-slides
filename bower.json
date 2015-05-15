@@ -1,0 +1,29 @@
+{
+  "name": "es-harmony-slides",
+  "version": "1.0.1",
+  "homepage": "https://github.com/ivanovyordan/es-harmony-slides",
+  "authors": [
+    "Yordan Ivanov <mail@ivanovyordan.com>"
+  ],
+  "description": "My PlovdivConf presentation",
+  "main": "index.html",
+  "keywords": [
+    "harmony",
+    "presentation",
+    "slides",
+    "plovdivconf"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.0.0",
+    "headjs": "~1.0.3",
+    "typicons": "~2.0.7"
+  }
+}
